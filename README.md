@@ -8,7 +8,7 @@
 
 ## yo, contexte rapide
 
-Bon. J'ai eu l'occase de reverse **Millenium RAT** (certains l'appellent Millenium Stealer ou Millenium Grabber). C'est un infostealer Windows, codé en C++, build MSVC. Y fait le tour classique : navigateurs, Discord, Telegram, wallets, screens, webcam, tout le tralala.
+Bon. J'ai eu l'occase de reverse **Millenium RAT** C'est un RAT Windows, codé en C++, build MSVC. Y fait le tour classique : navigateurs, Discord, Telegram, wallets, screens, webcam, tout le tralala.
 
 J'publie ça pour que les gens voient ce que ça fait vraiment, comment c'est foutu, et surtout pour que si vous tombez sur un truc chelou vous sachiez à quoi vous avez affaire. Le binôme est **pas packé** au niveau de l'entry point, donc l'analyse statique passe crème.
 
